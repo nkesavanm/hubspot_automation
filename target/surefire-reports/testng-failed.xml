@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.app.hubspot.qa.testcases.LoginPageTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.app.hubspot.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="loginPageTitleTest"/>
+          <include name="browserSetUp"/>
+          <include name="teardown"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.app.hubspot.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.app.hubspot.qa.testcases.LoginPageTest] -->

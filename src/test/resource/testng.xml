@@ -1,0 +1,7 @@
+<suite name="HubSpot application test suite">
+	<test name="HubSpot application test">
+		<classes>
+			<class name="com.app.hubspot.qa.testcases.LoginPageTest" />
+		</classes>
+	</test>
+</suite>
